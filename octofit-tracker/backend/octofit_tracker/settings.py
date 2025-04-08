@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-mbly04x&)pzsc&1y9uvboyf1*7arm-csb%b5r9oy9juzxa7zq4
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "fuzzy-funicular-v6wrpg5x9qjgfw597-8000.app.github.dev"]
 
 
 # Application definition
